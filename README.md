@@ -1,6 +1,7 @@
-# MyTaskForNetcracker
-My task to get a job at Netcracker
+# MyTaskForNetcracker-clean
+I messed up with my MyTaskForNetcracker repository so it is hard to figure out a thing. That's why I create this one that will contain all necessary up-to date files.
 
+My task to get a job at Netcracker
 Тестовое задание
 Реализовать систему конфигурации и запуска тестовых сценариев.
 •	Требования к системе:
