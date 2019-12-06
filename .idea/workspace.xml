@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6c1ade8-7295-45c9-b6b2-338336c3f6ab" name="Default" comment="Added instance of up-to date log file. &#10;&#10;Further steps: refactoring. &#10;&#10;29.11.19">
+      <change afterPath="$PROJECT_DIR$/reports/extent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/report_021219_133649.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/report_041219_221439.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/report_041219_221919.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/report_041219_222722.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/old/depricated/ActionTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/old/depricated/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/old/testies_old/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/old/testies_old/Testie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot230254_121119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_125616_141119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_144045_131119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_144420_131119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_144535_131119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_144657_131119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_145003_131119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_230456_121119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_230724_121119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_231152_121119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot_233139_121119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ActionTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DerpyTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/depricated/DerpyTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/testies_old/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PerformTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/logs/281119_221758_old.log" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mytask" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Testie.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Testie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleReporter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logger/SimpleReporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActionDeque.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/actions/helpers/ActionDeque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActionFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/actions/helpers/ActionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenURLAct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/actions/OpenURLAct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logger/SimpleLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="79" column="5" selection-start-line="71" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximizeWindowAct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/actions/MaximizeWindowAct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotSupportedYetAct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/actions/NotSupportedYetAct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="FxmlFile" />
+        <option value="UML Component" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>webDriver</find>
+      <find>site_header_is_on_home_page</find>
+      <find>&quot;https://www.google.com&quot;</find>
+      <find>create act obj click</find>
+      <find>IAction</find>
+      <find>actionFactory</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Action</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mission-Link" />
+        <option value="Mission-Link &lt;missionlink.st@gmail.com&gt;" />
+        <option value="Mission-Link &lt;56979691+mission-link@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Reformat_and_Comment" />
+      </map>
+    </option>
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/Testie.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/testfile/test.fxml" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Testie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/ActionDequeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DerpyTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/ActionCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/ClickAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/ScreenshotAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/SetValueAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/ActionDeque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/IAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/OpenURLAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ActionTranslator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BrowserEnc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/BrowserEnc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Browser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/Browser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Actions/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/Testie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/ActionTestie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/ActionCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/IAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Parser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/ActionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/helpers/ActionCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testies/A.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Testie2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testies/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/testfile/test_scenario.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/testies/Testie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/Logger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/SimpleLogger.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/helpers/ActionDeque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/OpenURLAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strikepackage/Browser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testies_old/Testie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/ClickAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/ScreenshotAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/SetValueAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/MaximizeWindowAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/Reporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/NotSupportedYetAct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actions/helpers/ActionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/SimpleReporter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Testie.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mytask" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mytask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mytask" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mytask" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mytask" type="58d84e3e:PackageViewProjectNode" />
+              <item name="mytask" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Production">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="mavenexample" type="cbb8eebc:String" user="mavenexample" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="mavenexample" type="cbb8eebc:String" user="mavenexample" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="mavenexample" type="cbb8eebc:String" user="mavenexample" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="mavenexample" type="cbb8eebc:String" user="mavenexample" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="mavenexample" type="cbb8eebc:String" user="mavenexample" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Default">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="mavenexample" type="cbb8eebc:String" user="mavenexample" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="mavenexample" type="cbb8eebc:String" user="mavenexample" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestNG_out" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ObjectsPRojects\1JavaIsMyPassion\OnlyProjects\mavenexample\src\main\testfile" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ObjectsPRojects\1JavaIsMyPassion\OnlyProjects\mavenexample\src\main\java\depricated" />
+      <recent name="D:\ObjectsPRojects\1JavaIsMyPassion\OnlyProjects\mavenexample\src\test" />
+      <recent name="D:\ObjectsPRojects\1JavaIsMyPassion\OnlyProjects\mavenexample\src\main\java\testies" />
+      <recent name="D:\ObjectsPRojects\1JavaIsMyPassion\OnlyProjects\mavenexample\src\main\java" />
+      <recent name="D:\ObjectsPRojects\1JavaIsMyPassion\OnlyProjects\mavenexample\src\main\Actions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Testie">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Launcher" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="mytask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Launcher" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="D:\ObjectsPRojects\1JavaIsMyPassion\OnlyProjects\mavenexample\TestNG_out" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Testie (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testie" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Testie (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testie" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Testie (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testie" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Testie (5)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testie" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Testie" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="actions" />
+      <option name="MAIN_CLASS_NAME" value="Testie" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Launcher" />
+      <item itemvalue="TestNG.Testie" />
+      <item itemvalue="TestNG.Testie (4)" />
+      <item itemvalue="TestNG.Testie (5)" />
+      <item itemvalue="TestNG.Testie (3)" />
+      <item itemvalue="TestNG.Testie (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Testie" />
+        <item itemvalue="TestNG.Testie (1)" />
+        <item itemvalue="TestNG.Testie (3)" />
+        <item itemvalue="TestNG.Testie (5)" />
+        <item itemvalue="TestNG.Testie (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c1ade8-7295-45c9-b6b2-338336c3f6ab" name="Default" comment="" />
+      <created>1573501148703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573501148703</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First fully workable build. &#10;Were added XML file parser (class Parser), driver class that launches tests (uses testNG framework). And more useful classes that were deployed during the creation of this project.&#10;&#10;Need to do next: reformat, write comments and maybe some things more.&#10;&#10;14.11.19">
+      <created>1573728973002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573728973002</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Release 1.0&#10;&#10;First fully workable build reformatted.&#10;&#10;Were added different type of comments and removed unused stuff. &#10;&#10;14.11.19">
+      <created>1573733453844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573733453844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Release 1.1&#10;&#10;Minor fixes in class DerpyTester &#10;&#10;14.11.19">
+      <created>1573735822712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573735822712</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Release 1.2&#10;&#10;More minor fixes  &#10;&#10;14.11.19">
+      <created>1573736149138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573736149138</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactored according to supervisor's advice.  &#10;Now all Action classes have their own package (actions). All Action subclasses now implement functional interface IAction with method run().&#10;Reorganized Action subclasses objects parsing and their execution.&#10; &#10;Killer feature: if program receives via XML file test scenarios that include actions that are not defined then they could be treated as &quot;unsupported yet action&quot;.&#10;&#10;And few more more minor improvements are added.&#10;&#10;Further steps: refactoring. &#10;&#10;27.11.19">
+      <created>1574943792357</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574943792357</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactored classes in package &quot;actions&quot;. &#10;Added class &quot;SimpleLogger&quot; that writes logs if 'Unrecognizable' action gets processed.&#10;&#10;Refactored POM.xml file. Unused dependencies deleted and changed groupID and artifactId tags.&#10;&#10;+ few more improvements&#10;&#10;Further steps: refactoring. &#10;&#10;28.11.19 - 29.11.19">
+      <created>1575019939823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575019939823</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refactored classes in package &quot;actions&quot;. &#10;Added class &quot;SimpleLogger&quot; that writes logs if 'Unrecognizable' action gets processed. &#10;Added logs folder that represents example of a log file.&#10;&#10;Added action class &quot;MaximizeWindowAct&quot; that maximizes window of a browser.&#10;&#10;Refactored POM.xml file. Unused dependencies deleted and changed groupID and artifactId tags.&#10;&#10;+ few more improvements&#10;&#10;&#10;Further steps: refactoring. &#10;&#10;28.11.19 - 29.11.19">
+      <created>1575020374237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575020374237</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added instance of up-to date log file. &#10;&#10;Further steps: refactoring. &#10;&#10;29.11.19">
+      <created>1575020907669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575020907669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added support of an enterprise - grade report tool. Now program generates representative and comprehendable reports. &#10;Added one more action and refactored class Parser.&#10;&#10;+ more minor improvements &#10;&#10;04.11.19">
+      <created>1575489160212</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575489160212</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Testie_(5) - 2019.12.02 at 12h 57m 19s.xml">
+      <configuration name="Testie (5)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie_(5) - 2019.12.02 at 13h 15m 02s.xml">
+      <configuration name="Testie (5)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie - 2019.12.02 at 13h 19m 27s.xml">
+      <configuration name="Testie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie_(3) - 2019.12.02 at 13h 34m 06s.xml">
+      <configuration name="Testie (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie_(3) - 2019.12.02 at 13h 37m 28s.xml">
+      <configuration name="Testie (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie_(1) - 2019.12.04 at 22h 15m 57s.xml">
+      <configuration name="Testie (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie_(1) - 2019.12.04 at 22h 19m 37s.xml">
+      <configuration name="Testie (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie_(1) - 2019.12.04 at 22h 27m 57s.xml">
+      <configuration name="Testie (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie - 2019.12.04 at 22h 40m 33s.xml">
+      <configuration name="Testie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testie - 2019.12.04 at 22h 57m 37s.xml">
+      <configuration name="Testie" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919955" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.047798067" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27887982" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.16452742" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905483" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7751397" visible="true" weight="0.13319013" />
+      <window_info id="Structure" order="1" sideWeight="0.22486034" side_tool="true" visible="true" weight="0.13319013" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
+      <window_info id="Favorites" order="2" sideWeight="0.41913044" side_tool="true" weight="0.12244898" />
+      <window_info anchor="right" id="PlantUML" order="3" weight="0.19172932" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973147" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.21120186" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.25670946" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.07572503" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905483" />
+    </layout>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First fully workable build. &#10;Were added XML file parser (class Parser), driver class that launches tests (uses testNG framework). And more useful classes that were deployed during the creation of this project.&#10;&#10;Need to do next: reformat, write comments and maybe some things more.&#10;&#10;14.11.19" />
+    <MESSAGE value="Release 1.0&#10;&#10;First fully workable build reformatted.&#10;&#10;Were added different type of comments and removed unused stuff. &#10;&#10;14.11.19" />
+    <MESSAGE value="Release 1.1&#10;&#10;Minor fixes in class DerpyTester &#10;&#10;14.11.19" />
+    <MESSAGE value="Release 1.2&#10;&#10;More minor fixes  &#10;&#10;14.11.19" />
+    <MESSAGE value="Refactored according to supervisor's advice.  &#10;Now all Action classes have their own package (actions). All Action subclasses now implement functional interface IAction with method run().&#10;Reorganized Action subclasses objects parsing and their execution.&#10; &#10;Killer feature: if program receives via XML file test scenarios that include actions that are not defined then they could be treated as &quot;unsupported yet action&quot;.&#10;&#10;And few more more minor improvements are added.&#10;&#10;Further steps: refactoring. &#10;&#10;27.11.19" />
+    <MESSAGE value="Refactored classes in package &quot;actions&quot;. &#10;Added class &quot;SimpleLogger&quot; that writes logs if 'Unrecognizable' action gets processed.&#10;&#10;Refactored POM.xml file. Unused dependencies deleted and changed groupID and artifactId tags.&#10;&#10;+ few more improvements&#10;&#10;Further steps: refactoring. &#10;&#10;28.11.19 - 29.11.19" />
+    <MESSAGE value="Refactored classes in package &quot;actions&quot;. &#10;Added class &quot;SimpleLogger&quot; that writes logs if 'Unrecognizable' action gets processed. &#10;Added logs folder that represents example of a log file.&#10;&#10;Added action class &quot;MaximizeWindowAct&quot; that maximizes window of a browser.&#10;&#10;Refactored POM.xml file. Unused dependencies deleted and changed groupID and artifactId tags.&#10;&#10;+ few more improvements&#10;&#10;&#10;Further steps: refactoring. &#10;&#10;28.11.19 - 29.11.19" />
+    <MESSAGE value="Added instance of up-to date log file. &#10;&#10;Further steps: refactoring. &#10;&#10;29.11.19" />
+    <MESSAGE value="Added support of an enterprise - grade report tool. Now program generates representative and comprehendable reports. &#10;Added one more action and refactored class Parser.&#10;&#10;+ more minor improvements &#10;&#10;04.11.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added support of an enterprise - grade report tool. Now program generates representative and comprehendable reports. &#10;Added one more action and refactored class Parser.&#10;&#10;+ more minor improvements &#10;&#10;04.11.19" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_010_Samples-20180809T072444Z-001.zip/010_Samples/src/javaProfessional/ex_001_XML/XMLParser/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/testfile/test.fxml" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test_scenario.xml" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/1SuperForce/CS/mavenexample/src/main/java/PerformTest.java" />
+    <entry file="file://D:/1SuperForce/CS/mavenexample/src/main/java/MyException.java" />
+    <entry file="file://D:/1SuperForce/CS/mavenexample/src/test/java/PerformTestTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/TakesScreenshot.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytask.plantuml" />
+    <entry file="file://$PROJECT_DIR$/mavenexample.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/km.puml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/depricated/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/depricated/ActionTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="57" selection-start-line="27" selection-start-column="6" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/ActionFactory.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="610" column="7" lean-forward="true" selection-start-line="610" selection-start-column="7" selection-end-line="610" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://C:/Program Files/Java/jdk-10.0.1!/jdk.internal.vm.compiler/org/graalvm/compiler/asm/aarch64/AArch64Assembler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="401" column="44" selection-start-line="401" selection-start-column="44" selection-end-line="401" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/IAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/depricated/DerpyTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/testies_old/ActionTestie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/testies_old/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="210" column="18" lean-forward="true" selection-start-line="210" selection-start-column="18" selection-end-line="210" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="811" column="19" selection-start-line="811" selection-start-column="19" selection-end-line="811" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/testies_old/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/testies_old/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Testie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/testfile/test_scenario.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/depricated/PerformTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/depricated/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PerformTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strikepackage/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/old/testies_old/Testie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/extent.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/ScreenshotAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/ClickAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/SetValueAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report_021219_133649.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report_041219_221439.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report_041219_221919.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="262" column="8" lean-forward="true" selection-start-line="262" selection-start-column="8" selection-end-line="262" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/MaximizeWindowAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/NotSupportedYetAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/SimpleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="79" column="5" selection-start-line="71" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/OpenURLAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/helpers/ActionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/actions/helpers/ActionDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/SimpleReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Testie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mytask</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
