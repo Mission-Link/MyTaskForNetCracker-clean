@@ -13,15 +13,17 @@ public class SimpleReporter {
     private ExtentReports reports;
     private ExtentTest test;
 
+    private final String FS = File.separator;
+
     public SimpleReporter() {
-        String pathToReports = System.getProperty("user.dir");
-        ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(pathToReports +
-                File.separator + "reports" + File.separator + "report_"+generateUniqueDT()+".html");
+        String currentDir = System.getProperty("user.dir");
+        ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(currentDir +
+                FS + "reports" + FS + "report_" + generateUniqueDT() + ".html");
         //create ExtentReports and attach
         reports = new ExtentReports();
         reports.attachReporter(htmlReporter);
         //creates a toggle (probably like a 'hat' above the information part)
-        test = reports.createTest("TestCase", "Let's test something :3 ");
+        test = reports.createTest("TestCase", "Received scenario :3 ");
     }
 
     private static String generateUniqueDT() {
@@ -29,9 +31,9 @@ public class SimpleReporter {
         LocalDate localDate = LocalDate.now();
         DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("HHmmss");
         DateTimeFormatter formatter2 = DateTimeFormatter.ofPattern("ddMMYY");
-        String f1 = formatter1.format(localTime);
-        String f2 = formatter2.format(localDate);
-        return f2 + "_" + f1;
+        String time = formatter1.format(localTime);
+        String date = formatter2.format(localDate);
+        return date + "_" + time;
     }
 
     public ExtentReports getReports() {

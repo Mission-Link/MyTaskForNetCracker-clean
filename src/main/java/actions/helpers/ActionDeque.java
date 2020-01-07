@@ -22,7 +22,6 @@ public class ActionDeque {
         actionDeque.add(action);
     }
 
-
     public void printDeque() {
         for (IAction tmp : actionDeque) {
 //            System.out.println(tmp.getClass().toString());

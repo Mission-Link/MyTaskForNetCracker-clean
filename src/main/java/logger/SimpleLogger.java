@@ -29,10 +29,7 @@ public class SimpleLogger {
         } catch (IOException e) {
             System.out.println("Impossible to create file for logs");
         }
-        FileWriter fw = null;
-        try {
-            fw = new FileWriter(logFile, true);
-
+        try (FileWriter fw = new FileWriter(logFile, true)) {
             if (arrayList.size() != 0) {
                 for (String tmp : arrayList) {
                     fw.write(tmp + System.lineSeparator());
@@ -42,13 +39,6 @@ public class SimpleLogger {
         } catch (Exception e) {
             System.out.println("Log file doesn't exist");
             System.out.println("Impossible to write log");
-        }finally {
-            try {
-                fw.flush();
-                fw.close();
-            } catch (IOException e) {
-                System.out.println("Impossible to close fileWriter object");
-            }
         }
 
     }//end of method writeLog()
